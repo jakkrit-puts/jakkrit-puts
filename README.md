@@ -2,6 +2,13 @@
 
 🔭 I’m currently working on ...
 
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
 <!--
 **jakkrit-puts/jakkrit-puts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
