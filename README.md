@@ -10,7 +10,7 @@ CMS:       WordPress
 TechStack: MEAN Stack
 Tool:      VS Code, Git, Postman
 Database:  MongoDB, MySQL
-Dev'ops:   Digital Ocean, Docker, K8s
+Dev'Ops:   Digital Ocean, Docker, K8s
 ```
 
 ## I’m currently learning 🌱
