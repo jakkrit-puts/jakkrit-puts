@@ -1,7 +1,16 @@
-# Hi there 👋 {align=center}
+## Hi there 👋
+> My name is Jakkrit. I'm a Web Full Stack Developer
 
-
-
+### About me... 💬 
+___
+``` 
+Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
+Framework: Laravel, Node.js, Express, Gin, Angular, Ionic
+TechStack: MEAN Stack
+Tool:      VS Code, Git, Postman
+Database:  MongoDB, MySQL,
+Dev'ops:   Digital Ocean, Docker, K8s
+```
 
 <!--
 **jakkrit-puts/jakkrit-puts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
