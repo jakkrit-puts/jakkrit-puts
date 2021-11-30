@@ -8,7 +8,7 @@ Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
 Framework: Laravel, Node.js, Express, Gin, Angular, Ionic
 TechStack: MEAN Stack
 Tool:      VS Code, Git, Postman
-Database:  MongoDB, MySQL,
+Database:  MongoDB, MySQL
 Dev'ops:   Digital Ocean, Docker, K8s
 ```
 
