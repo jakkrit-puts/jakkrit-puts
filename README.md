@@ -6,12 +6,16 @@ ___
 ``` 
 Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
 Framework: Laravel, Node.js, Express, Gin, Angular, Ionic
+CMS:       WordPress
 TechStack: MEAN Stack
 Tool:      VS Code, Git, Postman
 Database:  MongoDB, MySQL
 Dev'ops:   Digital Ocean, Docker, K8s
 ```
 
+## I’m currently learning 🌱
+> Blockchain
+> 
 <!--
 **jakkrit-puts/jakkrit-puts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
