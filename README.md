@@ -14,7 +14,7 @@ Dev'Ops:   Digital Ocean, Docker, K8s
 ```
 
 ## I’m currently learning 🌱
-> Blockchain, Cloud Engineer
+> Cloud Engineer
 > 
 <!--
 **jakkrit-puts/jakkrit-puts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
