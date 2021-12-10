@@ -5,11 +5,10 @@
 ___
 ``` 
 Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
-Framework: Laravel, Node.js, Express, Gin, Angular, Ionic
-CMS:       WordPress
+Framework: Laravel, Node.js, Express, Gin, Angular
 TechStack: MEAN Stack
 Tool:      VS Code, Git, Postman
-Database:  MongoDB, MySQL
+Database:  MongoDB, PosgreSQL, MySQL
 Dev'Ops:   Digital Ocean, Docker, K8s
 ```
 
