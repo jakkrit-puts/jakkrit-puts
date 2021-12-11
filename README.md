@@ -9,7 +9,7 @@ Framework: Laravel, Node.js, Express, Gin, Angular, Vue
 TechStack: MEAN Stack
 Tool:      VS Code, Git, Postman
 Database:  MongoDB, PosgreSQL, MySQL
-Dev'Ops:   Digital Ocean, Docker, K8s
+Dev'Ops:   Digital Ocean, Docker
 ```
 
 ## I’m currently learning 🌱
