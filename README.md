@@ -4,8 +4,8 @@
 ### About me... 💬 
 ___
 ``` 
-Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
-Framework: Laravel, Node.js, Express, Gin, Angular, Vue
+Coding:    JavaScript, TypeScript, PHP, HTML, CSS
+Framework: Laravel, Node.js, Angular, Vue
 TechStack: MEAN Stack, MEVN Stack, Laravel + Vue
 Tool:      VS Code, Git, Source Tree, Postman
 Database:  MongoDB, MySQL
