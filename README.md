@@ -5,11 +5,11 @@
 ___
 ``` 
 Coding:    JavaScript, TypeScript, PHP, Go, HTML, CSS
-Framework: Laravel, Express.js, Gin, Angular
-TechStack: MEAN Stack
-Tool:      VS Code, Git, Source Tree, Postman
+Framework: Laravel, Express.js, Gin, Vue.js, Flutter
+TechStack: MEVN Stack
+Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
-Dev'Ops:   Digital Ocean, Docker
+Dev'Ops:   Digital Ocean, Docker, Docker Swarm
 ```
 
 ## I’m currently learning 🌱
