@@ -9,7 +9,7 @@ Framework: Laravel, Express.js, Gin, Vue.js
 TechStack: MEVN Stack, Laravel + Vue.js
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
-Dev'Ops:   Digital Ocean, Docker, Docker Swarm, K8s
+Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx
 ```
 
 ## I’m currently learning 🌱
