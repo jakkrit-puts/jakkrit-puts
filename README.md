@@ -5,8 +5,8 @@
 ___
 ``` 
 Coding:    JavaScript, TypeScript, PHP, Go, HTML, CSS
-Framework: Laravel, Express.js, Gin, Angular
-TechStack: MEAN Stack
+Framework: Laravel, Express.js, Gin, Vue
+TechStack: MEVN Stack
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
 Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx
