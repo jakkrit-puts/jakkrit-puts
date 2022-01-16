@@ -6,7 +6,7 @@ ___
 ``` 
 Coding:    JavaScript, TypeScript, PHP, Go, HTML, CSS
 Framework: Laravel, Express.js, Gin, Vue
-TechStack: MEVN Stack
+TechStack: MEVN Stack, Laravel + Vue
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
 Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx
