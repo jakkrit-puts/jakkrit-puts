@@ -9,7 +9,7 @@ Framework: Laravel, Express.js, Gin, Angular, Flutter
 TechStack: MEAN Stack, Laravel + Livewire
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
-Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx
+Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx, OpenResty
 ```
 
 ## I’m currently learning 🌱
