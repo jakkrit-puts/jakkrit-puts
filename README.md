@@ -5,7 +5,7 @@
 ___
 ``` 
 Coding:    JavaScript, TypeScript, PHP, Go, Dart, HTML, CSS
-Framework: Laravel, Express.js, Gin, Angular, Flutter
+Framework: Laravel, Express.js, Gin, Angular
 TechStack: MEAN Stack, Laravel + Livewire
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL
