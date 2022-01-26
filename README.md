@@ -4,7 +4,7 @@
 ### About me... 💬 
 ___
 ``` 
-Coding:    JavaScript, TypeScript, PHP, Go, Dart, HTML, CSS
+Coding:    JavaScript, TypeScript, PHP, Go, HTML, CSS
 Framework: Laravel, Express.js, Gin, Angular
 TechStack: MEAN Stack, Laravel + Livewire
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
