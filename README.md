@@ -1,5 +1,5 @@
 ## Hi there 👋
-> My name is Jakkrit. I'm a Web Full Stack Developer
+> My name is Jakkrit. I'm a Full Stack Developer
 
 ### About me... 💬 
 ___
