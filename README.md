@@ -5,7 +5,7 @@
 ___
 ``` 
 Coding:    JavaScript, TypeScript, PHP, HTML, CSS
-Framework: Laravel, Express.js, Fastify, Vue.js, Ionic, React Native
+Framework: Laravel, Express.js, Nest.js, Vue.js, Ionic
 TechStack: MEVN Stack
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
 Database:  MongoDB, MySQL, PostgreSQL
