@@ -4,11 +4,11 @@
 ### About me... 💬 
 ___
 ``` 
-Coding:    JavaScript, TypeScript, PHP, Go, HTML, CSS
-Framework: Laravel, Express.js, Vue.js, React, Next.js, Gin
-TechStack: MEVN Stack
+Coding:    JavaScript, TypeScript, Go, PHP, HTML, CSS
+Framework: Laravel, Express.js, Nest.js, Vue.js, React 
+TechStack: MEVN Stack, MERN Stack
 Tool:      VS Code, Git, Source Tree, Postman, Jira, Slack
-Database:  MongoDB, MySQL, PostgreSQL
+Database:  MongoDB, MySQL, MariaDB
 Dev'Ops:   Digital Ocean, Docker, Docker Swarm, Nginx
 ```
 
