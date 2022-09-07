@@ -29,8 +29,11 @@ Backend:
 Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67111961/188948764-9f033d87-9d16-44f5-bb29-dc0b389c57b9.jpg" >
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" ></code>
+
+</code>
 
 Database:
 
