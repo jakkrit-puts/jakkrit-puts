@@ -52,6 +52,7 @@ Others:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></code>
 
 ## I’m currently learning 🌱
 > DevOps
