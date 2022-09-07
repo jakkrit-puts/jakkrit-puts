@@ -1,8 +1,11 @@
 ## Hi there 👋
-> My name is Jakkrit. I'm a Full Stack Developer
+> My name is Jakkrit.
 
 ### About me... 💬 
 ___
+```bash
+ I'm Jakkrit Putsorn, Nickname Jom.  I'm a Full Stack Developer 
+```
 
 ### Languages and Tools
 
