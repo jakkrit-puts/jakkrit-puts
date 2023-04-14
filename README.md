@@ -4,7 +4,7 @@
 ### About me... 💬 
 ___
 ```bash
- I'm Jakkrit Putsorn, Nickname Jom.  I'm a Full Stack Web Developer
+ I'm Jakkrit Putsorn,  I'm a Full Stack Web Developer
 ```
 
 ### Languages and Tools
