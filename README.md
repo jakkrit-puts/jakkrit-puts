@@ -19,9 +19,9 @@ Programing Language:
 Backend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
 <code><img height="25" src="https://github.com/jakkrit-puts/jakkrit-puts/assets/67111961/92bf2fd0-677e-464c-bd1d-f3f3b81414e6" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></code>
 
 
 Frontend:
