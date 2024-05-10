@@ -21,6 +21,7 @@ Backend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"  /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img height="25" src="https://github.com/jakkrit-puts/jakkrit-puts/assets/67111961/bad0f2d1-3647-48cc-ab52-df82c931b8b3" /></code>
 
 
 Frontend:
