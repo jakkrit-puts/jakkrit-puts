@@ -26,7 +26,6 @@ Backend:
 Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 
 Database:
