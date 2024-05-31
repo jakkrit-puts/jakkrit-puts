@@ -5,6 +5,7 @@
 ___
 ```bash
  I'm Jakkrit Putsorn,  I'm a  Web Full Stack Developer
+ Current Learning: DevOps Engineer
 ```
 
 ### Languages and Tools
@@ -14,7 +15,7 @@ Programing Language:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
           
 Backend:
 
@@ -25,7 +26,6 @@ Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 
 Database:
 
