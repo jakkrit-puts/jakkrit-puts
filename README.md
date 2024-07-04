@@ -15,10 +15,7 @@ Programing Language:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></code>
-<!--  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></code>  -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>   -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/></code> -->
-<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></code> -->
+
 
           
 Backend:
@@ -26,14 +23,12 @@ Backend:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></code>
-<!-- <code><img height="25" src="https://docs.gofiber.io/img/logo.svg" /></code> -->
 
 
 Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 <!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code> -->
 
 
