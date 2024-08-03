@@ -5,7 +5,6 @@
 ___
 ```bash
  I'm Jakkrit Putsorn,  I'm a  Web Full Stack Developer
- Current Learning: DevOps
 ```
 
 ### Languages and Tools
