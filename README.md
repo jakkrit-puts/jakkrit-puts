@@ -31,7 +31,7 @@ Backend:
 Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code> 
+<!-- <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code> -->
 
 
 Database:
