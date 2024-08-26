@@ -24,6 +24,7 @@ Backend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /></code>
 <!-- <code><img height="25" src="https://avatars.githubusercontent.com/u/2624634?s=280&v=4" /></code> -->
 
 
