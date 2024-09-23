@@ -29,7 +29,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/04c54f841079c668ea170e306746654fd6692f1c84d8ad205a6c538136ed41cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/04c54f841079c668ea170e306746654fd6692f1c84d8ad205a6c538136ed41cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" style="max-width: 100%;"></a>
 
 ## Github Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkrit-puts&show_icons=true&theme=dark)](https://github.com/jakkrit-puts/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkrit-puts&show_icons=true&theme=merko)](https://github.com/jakkrit-puts/github-readme-stats)
 
 ## My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakkrit-puts&layout=compact)](https://github.com/jakkrit-puts/github-readme-stats)
