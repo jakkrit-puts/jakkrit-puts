@@ -3,7 +3,7 @@
 
 ##  ⭐️ Quick Overview
 <ul>
- <li>🔭 I work as a Full Stack Developer, and create YouTube content for tutorials on full-stack apps.</li>
+ <li>🔭 I work as a Full Stack Developer</li>
  <li>👯 I’m looking to collaborate on open source projects or interesting ideas.</li>
  <li>💬 Ask me about anything! I'm happy to help.</li>
 </ul>
